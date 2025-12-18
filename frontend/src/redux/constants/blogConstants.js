@@ -1,0 +1,35 @@
+// Global
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+
+// All blogs
+export const ALL_BLOGS_REQUEST = "ALL_BLOGS_REQUEST";
+export const ALL_BLOGS_SUCCESS = "ALL_BLOGS_SUCCESS";
+export const ALL_BLOGS_FAIL = "ALL_BLOGS_FAIL";
+
+// Blog details
+export const BLOG_DETAILS_REQUEST = "BLOG_DETAILS_REQUEST";
+export const BLOG_DETAILS_SUCCESS = "BLOG_DETAILS_SUCCESS";
+export const BLOG_DETAILS_FAIL = "BLOG_DETAILS_FAIL";
+
+// Admin blogs
+export const ADMIN_BLOGS_REQUEST = "ADMIN_BLOGS_REQUEST";
+export const ADMIN_BLOGS_SUCCESS = "ADMIN_BLOGS_SUCCESS";
+export const ADMIN_BLOGS_FAIL = "ADMIN_BLOGS_FAIL";
+
+// Update blog
+export const UPDATE_BLOG_REQUEST = "UPDATE_BLOG_REQUEST";
+export const UPDATE_BLOG_SUCCESS = "UPDATE_BLOG_SUCCESS";
+export const UPDATE_BLOG_FAIL = "UPDATE_BLOG_FAIL";
+export const UPDATE_BLOG_RESET = "UPDATE_BLOG_RESET";
+
+// Delete blog
+export const DELETE_BLOG_REQUEST = "DELETE_BLOG_REQUEST";
+export const DELETE_BLOG_SUCCESS = "DELETE_BLOG_SUCCESS";
+export const DELETE_BLOG_FAIL = "DELETE_BLOG_FAIL";
+export const DELETE_BLOG_RESET = "DELETE_BLOG_RESET";
+
+// Create new blog
+export const NEW_BLOG_REQUEST = "NEW_BLOG_REQUEST";
+export const NEW_BLOG_SUCCESS = "NEW_BLOG_SUCCESS";
+export const NEW_BLOG_FAIL = "NEW_BLOG_FAIL";
+export const NEW_BLOG_RESET = "NEW_BLOG_RESET";
